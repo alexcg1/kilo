@@ -1,4 +1,5 @@
 /* Tutorial at https://viewsourcecode.org/snaptoken/kilo/index.html */
+/* I'm completed step 30 and confirmed working */
 
 /*includes*/
 
